@@ -1,4 +1,4 @@
-# 🧩 Responsive Web UI with Bootstrap 3
+# 🧩 Responsive Web UI 
 
 > A clean and responsive UI layout built using **Bootstrap 3**, demonstrating mastery of legacy CSS frameworks, responsive grid systems, and component-based design.
 
